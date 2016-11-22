@@ -13,7 +13,7 @@
     {
       "matches": ["file:///Users/pwalls/Desktop/anaplan_formula_helper/formula_bar_test.html","*://*.anaplan.com/*"],
       "css": ["app/style.css"],
-      "js": ["lib/jquery-1.12.3.min.js", "lib/arrive.min.js", "app/tooltip.js", "app/formula.js", "lib/lib.js", "app/functions.js" ],
+      "js": ["lib/jquery-3.1.1.min.js", "lib/arrive.min.js", "app/tooltip.js", "app/formula.js", "lib/lib.js", "app/functions.js" ],
       "run_at": "document_end"
     }
   ]
